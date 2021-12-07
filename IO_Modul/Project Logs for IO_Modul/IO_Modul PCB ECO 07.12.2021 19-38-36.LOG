@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetD40A_A Pin=D40A-A
+Added Pin To Net: NetName=NetD40A_A Pin=R41A-1
+Added Net: Name=NetD40A_A
+Added Pin To Net: NetName=NetD40B_A Pin=D40B-A
+Added Pin To Net: NetName=NetD40B_A Pin=R41B-1
+Added Net: Name=NetD40B_A
+Added Pin To Net: NetName=NetD40C_A Pin=D40C-A
+Added Pin To Net: NetName=NetD40C_A Pin=R41C-1
+Added Net: Name=NetD40C_A
+Added Pin To Net: NetName=NetD40D_A Pin=D40D-A
+Added Pin To Net: NetName=NetD40D_A Pin=R41D-1
+Added Net: Name=NetD40D_A

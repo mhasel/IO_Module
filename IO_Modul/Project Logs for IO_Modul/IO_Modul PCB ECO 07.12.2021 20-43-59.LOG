@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=COMA Pin=K40A-5
+Removed Pin From Net: NetName=COMB Pin=K40B-5
+Removed Pin From Net: NetName=COMC Pin=K40C-5
+Removed Pin From Net: NetName=COMD Pin=K40D-5
+Added Pin To Net: NetName=COMA Pin=K40A-6
+Added Pin To Net: NetName=COMB Pin=K40B-6
+Added Pin To Net: NetName=COMC Pin=K40C-6
+Added Pin To Net: NetName=COMD Pin=K40D-6

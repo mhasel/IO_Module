@@ -1,0 +1,32 @@
+Change Component Comment : Designator=R40A Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R40B Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R40C Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R40D Old Comment=1K New Comment=2.2K
+Change component parameters: Designator = "R40A"; Footprint = "R_0207/RM4"; UniqueID = "\ISXFHQFS\VYNRXKXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40B"; Footprint = "R_0207/RM4"; UniqueID = "\LXVKQLLS\VYNRXKXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40C"; Footprint = "R_0207/RM4"; UniqueID = "\XTBMIETK\VYNRXKXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40D"; Footprint = "R_0207/RM4"; UniqueID = "\DODJILCU\VYNRXKXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2K"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Kanal1 New Net Name=NetIC21_15
+Change Net Name : Old Net Name=Kanal2 New Net Name=NetIC21_1
+Change Net Name : Old Net Name=Kanal3 New Net Name=NetIC21_2
+Change Net Name : Old Net Name=Kanal4 New Net Name=NetIC21_3

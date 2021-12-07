@@ -1,0 +1,6 @@
+Remove Pin=IC20-4 From Net=DIN
+Remove Pin=IC20-5 From Net=DIN
+Remove Pin=IC20-6 From Net=DIN
+Remove Pin=IC20-7 From Net=DIN
+Remove Pin=IC20-14 From Net=I2C.SCL
+Remove Pin=IC21-13 From Net=GND
