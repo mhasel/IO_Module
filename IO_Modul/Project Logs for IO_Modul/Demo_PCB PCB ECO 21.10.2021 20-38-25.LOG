@@ -1,0 +1,286 @@
+Added Component: Designator=D1_Relaiskanal1(LED_5MM - blue)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Miscellaneous Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D1_Relaiskanal2(LED_5MM - blue)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Miscellaneous Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D1_Relaiskanal3(LED_5MM - blue)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Miscellaneous Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D1_Relaiskanal4(LED_5MM - blue)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Miscellaneous Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D2_Relaiskanal1(D_DO41-RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D2_Relaiskanal2(D_DO41-RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D2_Relaiskanal3(D_DO41-RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=D2_Relaiskanal4(D_DO41-RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "01-Nov-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=K1_Relaiskanal1(G5V-1-DC5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K1_Relaiskanal2(G5V-1-DC5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K1_Relaiskanal3(G5V-1-DC5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K1_Relaiskanal4(G5V-1-DC5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Relaiskanal1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Relaiskanal2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Relaiskanal3(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1_Relaiskanal4(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Relaiskanal1(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Relaiskanal2(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Relaiskanal3(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1_Relaiskanal4(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Relaiskanal1(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Relaiskanal2(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Relaiskanal3(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2_Relaiskanal4(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=T1_Relaiskanal1(TO-92A-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Philips Discrete BJT - Low Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=T1_Relaiskanal2(TO-92A-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Philips Discrete BJT - Low Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=T1_Relaiskanal3(TO-92A-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Philips Discrete BJT - Low Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Component: Designator=T1_Relaiskanal4(TO-92A-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "31-Oct-2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModellSource"; Value = "Philips Discrete BJT - Low Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=T1_Relaiskanal1-3
+Added Pin To Net: NetName=GND Pin=T1_Relaiskanal2-3
+Added Pin To Net: NetName=GND Pin=T1_Relaiskanal3-3
+Added Pin To Net: NetName=GND Pin=T1_Relaiskanal4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_Relaiskanal1_K Pin=D1_Relaiskanal1-K
+Added Pin To Net: NetName=NetD1_Relaiskanal1_K Pin=D2_Relaiskanal1-A
+Added Pin To Net: NetName=NetD1_Relaiskanal1_K Pin=K1_Relaiskanal1-9
+Added Pin To Net: NetName=NetD1_Relaiskanal1_K Pin=T1_Relaiskanal1-1
+Added Net: Name=NetD1_Relaiskanal1_K
+Added Pin To Net: NetName=NetD1_Relaiskanal2_K Pin=D1_Relaiskanal2-K
+Added Pin To Net: NetName=NetD1_Relaiskanal2_K Pin=D2_Relaiskanal2-A
+Added Pin To Net: NetName=NetD1_Relaiskanal2_K Pin=K1_Relaiskanal2-9
+Added Pin To Net: NetName=NetD1_Relaiskanal2_K Pin=T1_Relaiskanal2-1
+Added Net: Name=NetD1_Relaiskanal2_K
+Added Pin To Net: NetName=NetD1_Relaiskanal3_K Pin=D1_Relaiskanal3-K
+Added Pin To Net: NetName=NetD1_Relaiskanal3_K Pin=D2_Relaiskanal3-A
+Added Pin To Net: NetName=NetD1_Relaiskanal3_K Pin=K1_Relaiskanal3-9
+Added Pin To Net: NetName=NetD1_Relaiskanal3_K Pin=T1_Relaiskanal3-1
+Added Net: Name=NetD1_Relaiskanal3_K
+Added Pin To Net: NetName=NetD1_Relaiskanal4_K Pin=D1_Relaiskanal4-K
+Added Pin To Net: NetName=NetD1_Relaiskanal4_K Pin=D2_Relaiskanal4-A
+Added Pin To Net: NetName=NetD1_Relaiskanal4_K Pin=K1_Relaiskanal4-9
+Added Pin To Net: NetName=NetD1_Relaiskanal4_K Pin=T1_Relaiskanal4-1
+Added Net: Name=NetD1_Relaiskanal4_K
+Added Pin To Net: NetName=NetK1_Relaiskanal1_1 Pin=K1_Relaiskanal1-1
+Added Pin To Net: NetName=NetK1_Relaiskanal1_1 Pin=P1_Relaiskanal1-2
+Added Net: Name=NetK1_Relaiskanal1_1
+Added Pin To Net: NetName=NetK1_Relaiskanal1_5 Pin=K1_Relaiskanal1-5
+Added Pin To Net: NetName=NetK1_Relaiskanal1_5 Pin=K1_Relaiskanal1-6
+Added Pin To Net: NetName=NetK1_Relaiskanal1_5 Pin=P1_Relaiskanal1-3
+Added Net: Name=NetK1_Relaiskanal1_5
+Added Pin To Net: NetName=NetK1_Relaiskanal1_10 Pin=K1_Relaiskanal1-10
+Added Pin To Net: NetName=NetK1_Relaiskanal1_10 Pin=P1_Relaiskanal1-1
+Added Net: Name=NetK1_Relaiskanal1_10
+Added Pin To Net: NetName=NetK1_Relaiskanal2_1 Pin=K1_Relaiskanal2-1
+Added Pin To Net: NetName=NetK1_Relaiskanal2_1 Pin=P1_Relaiskanal2-2
+Added Net: Name=NetK1_Relaiskanal2_1
+Added Pin To Net: NetName=NetK1_Relaiskanal2_5 Pin=K1_Relaiskanal2-5
+Added Pin To Net: NetName=NetK1_Relaiskanal2_5 Pin=K1_Relaiskanal2-6
+Added Pin To Net: NetName=NetK1_Relaiskanal2_5 Pin=P1_Relaiskanal2-3
+Added Net: Name=NetK1_Relaiskanal2_5
+Added Pin To Net: NetName=NetK1_Relaiskanal2_10 Pin=K1_Relaiskanal2-10
+Added Pin To Net: NetName=NetK1_Relaiskanal2_10 Pin=P1_Relaiskanal2-1
+Added Net: Name=NetK1_Relaiskanal2_10
+Added Pin To Net: NetName=NetK1_Relaiskanal3_1 Pin=K1_Relaiskanal3-1
+Added Pin To Net: NetName=NetK1_Relaiskanal3_1 Pin=P1_Relaiskanal3-2
+Added Net: Name=NetK1_Relaiskanal3_1
+Added Pin To Net: NetName=NetK1_Relaiskanal3_5 Pin=K1_Relaiskanal3-5
+Added Pin To Net: NetName=NetK1_Relaiskanal3_5 Pin=K1_Relaiskanal3-6
+Added Pin To Net: NetName=NetK1_Relaiskanal3_5 Pin=P1_Relaiskanal3-3
+Added Net: Name=NetK1_Relaiskanal3_5
+Added Pin To Net: NetName=NetK1_Relaiskanal3_10 Pin=K1_Relaiskanal3-10
+Added Pin To Net: NetName=NetK1_Relaiskanal3_10 Pin=P1_Relaiskanal3-1
+Added Net: Name=NetK1_Relaiskanal3_10
+Added Pin To Net: NetName=NetK1_Relaiskanal4_1 Pin=K1_Relaiskanal4-1
+Added Pin To Net: NetName=NetK1_Relaiskanal4_1 Pin=P1_Relaiskanal4-2
+Added Net: Name=NetK1_Relaiskanal4_1
+Added Pin To Net: NetName=NetK1_Relaiskanal4_5 Pin=K1_Relaiskanal4-5
+Added Pin To Net: NetName=NetK1_Relaiskanal4_5 Pin=K1_Relaiskanal4-6
+Added Pin To Net: NetName=NetK1_Relaiskanal4_5 Pin=P1_Relaiskanal4-3
+Added Net: Name=NetK1_Relaiskanal4_5
+Added Pin To Net: NetName=NetK1_Relaiskanal4_10 Pin=K1_Relaiskanal4-10
+Added Pin To Net: NetName=NetK1_Relaiskanal4_10 Pin=P1_Relaiskanal4-1
+Added Net: Name=NetK1_Relaiskanal4_10
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R2_Relaiskanal1-2
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R2_Relaiskanal2-2
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R2_Relaiskanal3-2
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=R2_Relaiskanal4-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetR2_Relaiskanal1_1 Pin=R2_Relaiskanal1-1
+Added Pin To Net: NetName=NetR2_Relaiskanal1_1 Pin=T1_Relaiskanal1-2
+Added Net: Name=NetR2_Relaiskanal1_1
+Added Pin To Net: NetName=NetR2_Relaiskanal2_1 Pin=R2_Relaiskanal2-1
+Added Pin To Net: NetName=NetR2_Relaiskanal2_1 Pin=T1_Relaiskanal2-2
+Added Net: Name=NetR2_Relaiskanal2_1
+Added Pin To Net: NetName=NetR2_Relaiskanal3_1 Pin=R2_Relaiskanal3-1
+Added Pin To Net: NetName=NetR2_Relaiskanal3_1 Pin=T1_Relaiskanal3-2
+Added Net: Name=NetR2_Relaiskanal3_1
+Added Pin To Net: NetName=NetR2_Relaiskanal4_1 Pin=R2_Relaiskanal4-1
+Added Pin To Net: NetName=NetR2_Relaiskanal4_1 Pin=T1_Relaiskanal4-2
+Added Net: Name=NetR2_Relaiskanal4_1
+Added Pin To Net: NetName=VCC Pin=D2_Relaiskanal1-C
+Added Pin To Net: NetName=VCC Pin=D2_Relaiskanal2-C
+Added Pin To Net: NetName=VCC Pin=D2_Relaiskanal3-C
+Added Pin To Net: NetName=VCC Pin=D2_Relaiskanal4-C
+Added Pin To Net: NetName=VCC Pin=K1_Relaiskanal1-2
+Added Pin To Net: NetName=VCC Pin=K1_Relaiskanal2-2
+Added Pin To Net: NetName=VCC Pin=K1_Relaiskanal3-2
+Added Pin To Net: NetName=VCC Pin=K1_Relaiskanal4-2
+Added Pin To Net: NetName=VCC Pin=R1_Relaiskanal1-2
+Added Pin To Net: NetName=VCC Pin=R1_Relaiskanal2-2
+Added Pin To Net: NetName=VCC Pin=R1_Relaiskanal3-2
+Added Pin To Net: NetName=VCC Pin=R1_Relaiskanal4-2
+Added Net: Name=VCC
+Added Class: Name=Relaiskanal1
+Added Class: Name=Relaiskanal2
+Added Class: Name=Relaiskanal3
+Added Class: Name=Relaiskanal4
+Added Class: Name=Relaisstufe
+Added Class: Name=Relaiskanal
+Added Room: Name=Relaiskanal1
+Added Room: Name=Relaiskanal2
+Added Room: Name=Relaiskanal3
+Added Room: Name=Relaiskanal4
+Added Room: Name=Relaisstufe
