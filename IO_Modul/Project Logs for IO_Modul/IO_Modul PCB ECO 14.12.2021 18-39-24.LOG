@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=D30A-1
+Removed Pin From Net: NetName=GND Pin=D30B-1
+Removed Pin From Net: NetName=GND Pin=D30C-1
+Removed Pin From Net: NetName=GND Pin=D30D-1
+Removed Pin From Net: NetName=GND Pin=P30A-1
+Removed Pin From Net: NetName=GND Pin=P30B-1
+Removed Pin From Net: NetName=GND Pin=P30C-1
+Removed Pin From Net: NetName=GND Pin=P30D-1
+Removed Pin From Net: NetName=GND Pin=U30A-2
+Removed Pin From Net: NetName=GND Pin=U30B-2
+Removed Pin From Net: NetName=GND Pin=U30C-2
+Removed Pin From Net: NetName=GND Pin=U30D-2
+Added Component: Designator=R31A(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R31B(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R31C(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R31D(R_0207/RM4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R31A-1
+Added Pin To Net: NetName=DIN1 Pin=R31A-2
+Added Pin To Net: NetName=GND Pin=R31B-1
+Added Pin To Net: NetName=DIN2 Pin=R31B-2
+Added Pin To Net: NetName=GND Pin=R31C-1
+Added Pin To Net: NetName=DIN3 Pin=R31C-2
+Added Pin To Net: NetName=GND Pin=R31D-1
+Added Pin To Net: NetName=DIN4 Pin=R31D-2
+Added Pin To Net: NetName=NetD30A_1 Pin=D30A-1
+Added Pin To Net: NetName=NetD30A_1 Pin=P30A-1
+Added Pin To Net: NetName=NetD30A_1 Pin=U30A-2
+Added Net: Name=NetD30A_1
+Added Pin To Net: NetName=NetD30B_1 Pin=D30B-1
+Added Pin To Net: NetName=NetD30B_1 Pin=P30B-1
+Added Pin To Net: NetName=NetD30B_1 Pin=U30B-2
+Added Net: Name=NetD30B_1
+Added Pin To Net: NetName=NetD30C_1 Pin=D30C-1
+Added Pin To Net: NetName=NetD30C_1 Pin=P30C-1
+Added Pin To Net: NetName=NetD30C_1 Pin=U30C-2
+Added Net: Name=NetD30C_1
+Added Pin To Net: NetName=NetD30D_1 Pin=D30D-1
+Added Pin To Net: NetName=NetD30D_1 Pin=P30D-1
+Added Pin To Net: NetName=NetD30D_1 Pin=U30D-2
+Added Net: Name=NetD30D_1
+Added Member To Class: ClassName=Dig_Ein1 Member=Component R31A (R31) 1K
+Added Member To Class: ClassName=Dig_Ein2 Member=Component R31B (R31) 1K
+Added Member To Class: ClassName=Dig_Ein3 Member=Component R31C (R31) 1K
+Added Member To Class: ClassName=Dig_Ein4 Member=Component R31D (R31) 1K
