@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=IO_Modul\IO_Modul.PrjPcb
+[Project2]
+ProjectPath=IO_Modul_Lib\PCF8574\PCF8574.LibPkg
+[Project3]
+ProjectPath=IO_Modul_Lib\74LS595\74LS595.LibPkg
+[Project4]
+ProjectPath=IO_Modul_Lib\G5V-1-DC5\G5V-1-DC5.LibPkg
