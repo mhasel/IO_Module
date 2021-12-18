@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NOA Pin=P40A-1
+Removed Pin From Net: NetName=NCA Pin=P40A-3
+Removed Pin From Net: NetName=NOB Pin=P40B-1
+Removed Pin From Net: NetName=NCB Pin=P40B-3
+Removed Pin From Net: NetName=NOC Pin=P40C-1
+Removed Pin From Net: NetName=NCC Pin=P40C-3
+Removed Pin From Net: NetName=NOD Pin=P40D-1
+Removed Pin From Net: NetName=NCD Pin=P40D-3
+Added Pin To Net: NetName=NCA Pin=P40A-1
+Added Pin To Net: NetName=NOA Pin=P40A-3
+Added Pin To Net: NetName=NCB Pin=P40B-1
+Added Pin To Net: NetName=NOB Pin=P40B-3
+Added Pin To Net: NetName=NCC Pin=P40C-1
+Added Pin To Net: NetName=NOC Pin=P40C-3
+Added Pin To Net: NetName=NCD Pin=P40D-1
+Added Pin To Net: NetName=NOD Pin=P40D-3
