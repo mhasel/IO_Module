@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5V Pin=C12-2
+Removed Pin From Net: NetName=+5V Pin=C13-1
+Removed Pin From Net: NetName=+5 Pin=C21-2
+Removed Pin From Net: NetName=+5V Pin=D11-A
+Removed Pin From Net: NetName=+5V Pin=IC10-3
+Removed Pin From Net: NetName=+5 Pin=IC21-10
+Removed Pin From Net: NetName=+5 Pin=IC21-16
+Removed Pin From Net: NetName=+5 Pin=MOD20-EN
+Removed Pin From Net: NetName=+5V Pin=R41A-2
+Added Pin To Net: NetName=+5 Pin=C12-2
+Added Pin To Net: NetName=+5 Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=C21-2
+Added Pin To Net: NetName=+5 Pin=D11-A
+Added Pin To Net: NetName=+5 Pin=IC10-3
+Added Pin To Net: NetName=+5V Pin=IC21-10
+Added Pin To Net: NetName=+5V Pin=IC21-16
+Added Pin To Net: NetName=+5V Pin=MOD20-EN
+Added Pin To Net: NetName=+5 Pin=R41A-2
+Change Net Name : Old Net Name=+5 New Net Name=+5V
+Change Net Name : Old Net Name=+5V New Net Name=+5
