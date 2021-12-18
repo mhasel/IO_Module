@@ -1,0 +1,9 @@
+Change Class Name : Old Net Name=Dig_Ein1 New Net Name=Digitaler_Eingang1
+Change Class Name : Old Net Name=Dig_Ein2 New Net Name=Digitaler_Eingang2
+Change Class Name : Old Net Name=Dig_Ein3 New Net Name=Digitaler_Eingang3
+Change Class Name : Old Net Name=Dig_Ein4 New Net Name=Digitaler_Eingang4
+Added Class: Name=Digitaler_Eingang
+Added Room: Name=Digitaler_Eingang1
+Added Room: Name=Digitaler_Eingang2
+Added Room: Name=Digitaler_Eingang3
+Added Room: Name=Digitaler_Eingang4

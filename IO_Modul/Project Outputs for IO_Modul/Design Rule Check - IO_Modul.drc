@@ -1,17 +1,17 @@
 Protel Design System Design Rule Check
 PCB File : D:\Source\Repos\IO_Module\IO_Modul\IO_Modul.PcbDoc
 Date     : 18.12.2021
-Time     : 19:58:39
+Time     : 21:07:55
 
 WARNING: Zero hole size multi-layer pad(s) detected
-   Pad BU10-1(439.528mil,3605.905mil) on Multi-Layer on Net NetBU10_1
-   Pad BU10-2(439.528mil,3850mil) on Multi-Layer on Net GND
    Pad BU10-3(242.677mil,3731.89mil) on Multi-Layer on Net GND
+   Pad BU10-2(439.528mil,3850mil) on Multi-Layer on Net GND
+   Pad BU10-1(439.528mil,3605.905mil) on Multi-Layer on Net NetBU10_1
 
 WARNING: Multilayer Pads with 0 size Hole found
-   Pad BU10-1(439.528mil,3605.905mil) on Multi-Layer
-   Pad BU10-2(439.528mil,3850mil) on Multi-Layer
    Pad BU10-3(242.677mil,3731.89mil) on Multi-Layer
+   Pad BU10-2(439.528mil,3850mil) on Multi-Layer
+   Pad BU10-1(439.528mil,3605.905mil) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -26,7 +26,8 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net NetC10_1 Between Track (834.528mil,3832.84mil)(842.464mil,3840.776mil) on Top Layer And Pad D10-C(901.538mil,3605.905mil) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Width Constraint (Min=15mil) (Max=100mil) (Preferred=25mil) (All)
 Rule Violations :0
@@ -37,37 +38,37 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=30mil) (Max=100mil) (All)
 Rule Violations :0
 
+Processing Rule : Room Digitaler_Eingang4 (Bounding Region = (6321.097mil, 5650mil, 7020mil, 6810mil) (InComponentClass('Digitaler_Eingang4'))
+Rule Violations :0
+
+Processing Rule : Room Digitaler_Eingang3 (Bounding Region = (5630mil, 5650mil, 6321.097mil, 6792.913mil) (InComponentClass('Digitaler_Eingang3'))
+Rule Violations :0
+
+Processing Rule : Room Digitaler_Eingang2 (Bounding Region = (4920mil, 5640mil, 5630mil, 6792.913mil) (InComponentClass('Digitaler_Eingang2'))
+Rule Violations :0
+
+Processing Rule : Room Microcontroller (Bounding Region = (3210mil, 4075mil, 7000mil, 5650mil) (InComponentClass('Microcontroller'))
+Rule Violations :0
+
+Processing Rule : Room Relaiskanal 3 (Bounding Region = (5230mil, 2650mil, 5890mil, 4115.871mil) (InComponentClass('Relaiskanal 3'))
+Rule Violations :0
+
+Processing Rule : Room Relaiskanal 4 (Bounding Region = (5880mil, 2650mil, 6540mil, 4115.871mil) (InComponentClass('Relaiskanal 4'))
+Rule Violations :0
+
+Processing Rule : Room Relaiskanal 2 (Bounding Region = (4580mil, 2650mil, 5240mil, 4115.871mil) (InComponentClass('Relaiskanal 2'))
+Rule Violations :0
+
+Processing Rule : Room Digitaler_Eingang1 (Bounding Region = (4230mil, 5640mil, 4920mil, 6790mil) (InComponentClass('Digitaler_Eingang1'))
+Rule Violations :0
+
 Processing Rule : Room Relaiskanal 1 (Bounding Region = (3920mil, 2650mil, 4580mil, 4115.871mil) (InComponentClass('Relaiskanal 1'))
 Rule Violations :0
 
 Processing Rule : Room Versorgung (Bounding Region = (3200mil, 5645.276mil, 4225mil, 6795.276mil) (InComponentClass('Versorgung'))
 Rule Violations :0
 
-Processing Rule : Room Relaiskanal 4 (Bounding Region = (5880mil, 2650mil, 6540mil, 4115.871mil) (InComponentClass('Relaiskanal 4'))
-Rule Violations :0
 
-Processing Rule : Room Dig_Ein1 (Bounding Region = (4219.536mil, 5650mil, 4925mil, 6800mil) (InComponentClass('Dig_Ein1'))
-Rule Violations :0
-
-Processing Rule : Room Dig_Ein3 (Bounding Region = (5625mil, 5650mil, 6324.311mil, 6790mil) (InComponentClass('Dig_Ein3'))
-Rule Violations :0
-
-Processing Rule : Room Dig_Ein4 (Bounding Region = (6322.199mil, 5650mil, 7021.51mil, 6790mil) (InComponentClass('Dig_Ein4'))
-Rule Violations :0
-
-Processing Rule : Room Dig_Ein2 (Bounding Region = (4925mil, 5650mil, 5625mil, 6800mil) (InComponentClass('Dig_Ein2'))
-Rule Violations :0
-
-Processing Rule : Room Relaiskanal 3 (Bounding Region = (5230mil, 2650mil, 5890mil, 4115.871mil) (InComponentClass('Relaiskanal 3'))
-Rule Violations :0
-
-Processing Rule : Room Relaiskanal 2 (Bounding Region = (4580mil, 2650mil, 5240mil, 4115.871mil) (InComponentClass('Relaiskanal 2'))
-Rule Violations :0
-
-Processing Rule : Room Microcontroller (Bounding Region = (3210mil, 4075mil, 7000mil, 5650mil) (InComponentClass('Microcontroller'))
-Rule Violations :0
-
-
-Violations Detected : 0
+Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
