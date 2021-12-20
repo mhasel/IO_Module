@@ -1,17 +1,17 @@
 Protel Design System Design Rule Check
 PCB File : D:\Source\Repos\IO_Module\IO_Modul\IO_Modul.PcbDoc
-Date     : 18.12.2021
-Time     : 21:07:55
+Date     : 20.12.2021
+Time     : 15:29:36
 
 WARNING: Zero hole size multi-layer pad(s) detected
-   Pad BU10-3(242.677mil,3731.89mil) on Multi-Layer on Net GND
-   Pad BU10-2(439.528mil,3850mil) on Multi-Layer on Net GND
    Pad BU10-1(439.528mil,3605.905mil) on Multi-Layer on Net NetBU10_1
+   Pad BU10-2(439.528mil,3850mil) on Multi-Layer on Net GND
+   Pad BU10-3(242.677mil,3731.89mil) on Multi-Layer on Net GND
 
 WARNING: Multilayer Pads with 0 size Hole found
-   Pad BU10-3(242.677mil,3731.89mil) on Multi-Layer
-   Pad BU10-2(439.528mil,3850mil) on Multi-Layer
    Pad BU10-1(439.528mil,3605.905mil) on Multi-Layer
+   Pad BU10-2(439.528mil,3850mil) on Multi-Layer
+   Pad BU10-3(242.677mil,3731.89mil) on Multi-Layer
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -26,8 +26,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net NetC10_1 Between Track (834.528mil,3832.84mil)(842.464mil,3840.776mil) on Top Layer And Pad D10-C(901.538mil,3605.905mil) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=15mil) (Max=100mil) (Preferred=25mil) (All)
 Rule Violations :0
@@ -69,6 +68,6 @@ Processing Rule : Room Versorgung (Bounding Region = (3200mil, 5645.276mil, 4225
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:00

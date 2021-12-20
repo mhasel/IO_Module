@@ -10,3 +10,7 @@ ProjectPath=IO_Modul_Lib\74LS595\74LS595.LibPkg
 ProjectPath=IO_Modul_Lib\G5V-1-DC5\G5V-1-DC5.LibPkg
 [Project5]
 ProjectPath=IO_Modul_Lib\PCB_Terminal_Blocks\PCB_Terminal_Blocks.LibPkg
+[Project6]
+ProjectPath=IO_Modul_Lib\IO_Modul\IO_Modul.LibPkg
+[Project7]
+ProjectPath=IO_Modul_Lib\BC847C\BC847C.LibPkg

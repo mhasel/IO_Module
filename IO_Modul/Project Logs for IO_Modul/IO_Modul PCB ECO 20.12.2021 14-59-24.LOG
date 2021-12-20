@@ -1,0 +1,52 @@
+Change Component Comment : Designator=R40A Old Comment=2.2K New Comment=12K
+Change Component Comment : Designator=R40B Old Comment=2.2K New Comment=12K
+Change Component Comment : Designator=R40C Old Comment=2.2K New Comment=12K
+Change Component Comment : Designator=R40D Old Comment=2.2K New Comment=12K
+Change component parameters: Designator = "R40A"; Footprint = "R_SMD_R0805"; UniqueID = "\ISXFHQFS\KZHFIZCH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40B"; Footprint = "R_SMD_R0805"; UniqueID = "\LXVKQLLS\KZHFIZCH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40C"; Footprint = "R_SMD_R0805"; UniqueID = "\XTBMIETK\KZHFIZCH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40D"; Footprint = "R_SMD_R0805"; UniqueID = "\DODJILCU\KZHFIZCH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "07-Sep-2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "21-Feb-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = "only permitted for non-commercial purposes at HTL I Innsbruck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=T40A(SOT95P210X110-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T40B(SOT95P210X110-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T40C(SOT95P210X110-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T40D(SOT95P210X110-3N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=T40A-1
+Added Pin To Net: NetName=NetR40A_2 Pin=T40A-2
+Added Pin To Net: NetName=NetD40A_K Pin=T40A-3
+Added Pin To Net: NetName=GND Pin=T40B-1
+Added Pin To Net: NetName=NetR40B_2 Pin=T40B-2
+Added Pin To Net: NetName=NetD40B_K Pin=T40B-3
+Added Pin To Net: NetName=GND Pin=T40C-1
+Added Pin To Net: NetName=NetR40C_2 Pin=T40C-2
+Added Pin To Net: NetName=NetD40C_K Pin=T40C-3
+Added Pin To Net: NetName=GND Pin=T40D-1
+Added Pin To Net: NetName=NetR40D_2 Pin=T40D-2
+Added Pin To Net: NetName=NetD40D_K Pin=T40D-3
+Added Member To Class: ClassName=Relaiskanal 1 Member=Component T40A (T40) BC847C
+Added Member To Class: ClassName=Relaiskanal 2 Member=Component T40B (T40) BC847C
+Added Member To Class: ClassName=Relaiskanal 3 Member=Component T40C (T40) BC847C
+Added Member To Class: ClassName=Relaiskanal 4 Member=Component T40D (T40) BC847C
